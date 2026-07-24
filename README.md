@@ -48,11 +48,11 @@ The project follows a structured data science workflow:
 
 To keep the project organized and professional, I have structured the files as follows:
 
-- /data: Contains the raw dataset (Expanded_Patient_Readmission_Dataset.csv) and the project requirement specifications (Expanded_Patient_Readmission.pdf).
+- /Raw Data: Contains the raw dataset (Expanded_Patient_Readmission_Dataset.csv) and the project requirement specifications (Expanded_Patient_Readmission.pdf).
 
-- /notebooks: Includes all Jupyter notebooks used for analysis, including versions optimized for Google Colab and Databricks.
+- /Notebooks: Includes all Jupyter notebooks used for analysis, including versions optimized for Google Colab and Databricks.
 
-- /visualizations: Stores charts and plots generated during the analysis, such as the model performance comparison.
+- /Data Visualisations: Stores charts and plots generated during the analysis, such as the model performance comparison.
 
 Tech Stack & Tools
 
